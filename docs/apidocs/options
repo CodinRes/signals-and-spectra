@@ -1,0 +1,26 @@
+-classpath
+'C:/Users/samue/.m2/repository/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar;C:/Users/samue/.m2/repository/org/jfree/jfreechart/1.5.6/jfreechart-1.5.6.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'E:/Proyectos/seniales_y_espectros/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'E:/Proyectos/seniales_y_espectros/docs/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'seniales_y_espectros 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'E:/Proyectos/seniales_y_espectros/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'seniales_y_espectros 1.0-SNAPSHOT API'

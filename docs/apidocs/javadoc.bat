@@ -1,0 +1,1 @@
+cmd.exe /X /D /C "E:\Aplicaciones\Java\jdk-24.0.1\bin\javadoc.exe -J-Duser.language= -J-Duser.country= @options @packages"
