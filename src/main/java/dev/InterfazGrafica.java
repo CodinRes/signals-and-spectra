@@ -59,7 +59,9 @@ public class InterfazGrafica extends JFrame
     public InterfazGrafica()
     {
         this.setTitle("Señales y Espectros");
-        this.setSize(1920, 1080);
+        this.setSize(1280, 720);
+        this.setExtendedState(Frame.MAXIMIZED_BOTH); 
+        this.setVisible(true);
         this.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         this.setLayout(new BorderLayout());
 
